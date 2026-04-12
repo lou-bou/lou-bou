@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <a href="https://open.spotify.com/user/freecss">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=freecss&count=5&unique=true" alt="Spotify recently played"  />
@@ -33,8 +31,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -50,3 +46,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
+
+###
