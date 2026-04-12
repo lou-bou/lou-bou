@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lou-bou" alt="lou-bou" /></a> </p>
 
-- 🔭 I’m currently working on **software engineering and network infrastructure projects**
+- 🔭 I’m currently working on **software, network infrastructure and AI automation projects**
 
 - 🌱 I’m currently learning **Node.js, PostgreSQL and React**
 
