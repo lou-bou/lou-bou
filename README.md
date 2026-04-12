@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **software, network infrastructure and AI automation projects**
 
-- 🌱 I’m currently learning **Node.js, PostgreSQL and React**
-
 - 📫 How to reach me **boussaid.louai25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
